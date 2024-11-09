@@ -2,8 +2,8 @@
 This repository contains a Python script that logs into the Metacyc website, fetches the expected taxonomic range for a list of pathway IDs, and saves the data to a file. The script uses the Helium library for browser automation to log in, navigate, and retrieve information from the Metacyc web interface.
 
 ## Files
-- `fetch_taxonomic_range.py`: The main script for logging into Metacyc, retrieving taxonomic range data, and saving results.
-- `test_input.txt`: An example file to test the script. This file should contain one Metacyc pathway ID per line.
+- `get_pathID_taxon.py`: The main script for logging into Metacyc, retrieving taxonomic range data, and saving results.
+- `Metacyc_pathID.txt`: An example file to test the script. This file should contain one Metacyc pathway ID per line.
 
 Prerequisites
 - Python 3.x
