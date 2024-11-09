@@ -24,8 +24,8 @@ python get_pathID_taxon.py <username> <password> <input_file> <output_file>
 - `<input_file>`: Path to the file containing pathway IDs (one per line).
 - `<output_file>`: Path to the output file where results will be saved.
 
-**4. Output:** The script will create or append to the specified output file in a tab-separated format with the following columns:
+**3. Output:** The script will create or append to the specified output file in a tab-separated format with the following columns:
 
-`Pathway_ID`: The pathway ID from Metacyc.
-`Expected_Taxonomic_Range`: The taxonomic range associated with each pathway.
+- `Pathway_ID`: The pathway ID from Metacyc.
+- `Expected_Taxonomic_Range`: The taxonomic range associated with each pathway.
 
