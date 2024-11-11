@@ -4,6 +4,7 @@ This repository contains a Python script that logs into the Metacyc website, fet
 ## Files
 - `get_pathID_taxon.py`: The main script for logging into Metacyc, retrieving taxonomic range data, and saving results.
 - `Metacyc_pathID.txt`: An example file to test the script. This file should contain one Metacyc pathway ID per line.
+- `optimized_web_scraping.py`: Script where I implement some optimizations to the main script.
 
 Prerequisites
 - Python 3.x
